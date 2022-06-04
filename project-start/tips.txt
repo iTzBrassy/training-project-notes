@@ -1,5 +1,5 @@
 MEDIA QUERIES FOR STANDARD DEVICES
 -https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
-Dev Resources
-https://zerotomastery.io/resources/
+DEV RESOURCES
+-https://zerotomastery.io/resources/
